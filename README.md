@@ -1,5 +1,5 @@
 # RC_HTML_Parser
-A simple, yet effective, way to extract data from websites through breaking down their HTML
+**A simple, yet effective, way to extract data from websites through breaking down their HTML**
 
 *IN BETA*
 This is a very effective way to strip data from websites, but there are a few issues known and being resolved. The Parser does not work properly with the following conditions present:
