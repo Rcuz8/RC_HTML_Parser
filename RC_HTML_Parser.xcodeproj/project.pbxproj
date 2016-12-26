@@ -10,7 +10,7 @@
 		94A787A21E1195EC0068689C /* RC_HTML_Parser.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94A787981E1195EC0068689C /* RC_HTML_Parser.framework */; };
 		94A787A71E1195EC0068689C /* RC_HTML_ParserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A787A61E1195EC0068689C /* RC_HTML_ParserTests.swift */; };
 		94A787A91E1195EC0068689C /* RC_HTML_Parser.h in Headers */ = {isa = PBXBuildFile; fileRef = 94A7879B1E1195EC0068689C /* RC_HTML_Parser.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		94A787B31E1196190068689C /* RC_HTML_Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A787B21E1196180068689C /* RC_HTML_Parser.swift */; };
+		94A787CB1E119B580068689C /* RC_HTML_Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A787CA1E119B580068689C /* RC_HTML_Parser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,7 +30,7 @@
 		94A787A11E1195EC0068689C /* RC_HTML_ParserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RC_HTML_ParserTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94A787A61E1195EC0068689C /* RC_HTML_ParserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RC_HTML_ParserTests.swift; sourceTree = "<group>"; };
 		94A787A81E1195EC0068689C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		94A787B21E1196180068689C /* RC_HTML_Parser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RC_HTML_Parser.swift; path = "../../Testing Anything/Testing Anything/RC_HTML_Parser.swift"; sourceTree = "<group>"; };
+		94A787CA1E119B580068689C /* RC_HTML_Parser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RC_HTML_Parser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 			children = (
 				94A7879B1E1195EC0068689C /* RC_HTML_Parser.h */,
 				94A7879C1E1195EC0068689C /* Info.plist */,
-				94A787B21E1196180068689C /* RC_HTML_Parser.swift */,
+				94A787CA1E119B580068689C /* RC_HTML_Parser.swift */,
 			);
 			path = RC_HTML_Parser;
 			sourceTree = "<group>";
@@ -202,7 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				94A787B31E1196190068689C /* RC_HTML_Parser.swift in Sources */,
+				94A787CB1E119B580068689C /* RC_HTML_Parser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
