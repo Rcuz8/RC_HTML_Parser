@@ -13,4 +13,4 @@ This is a very effective way to strip data from websites, but there are a few is
     -     ❌: `<div class id="someID"> some stuff.. </div>` -> Notice how there is syntax after the div keyword in the opening tag
     -     ❌: `<div> <div>A</div> some stuff...<div>B</div> </div>` -> Notice the nested div tags
 
-#EXPECTED FINALIZATION DATE: 10 / 30 / 16
+#EXPECTED FINALIZATION DATE: 12 / 30 / 16
